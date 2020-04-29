@@ -1,12 +1,11 @@
 # Codigo-Arbol-de-decision
 https://www.aprendemachinelearning.com/arbol-de-decision-en-python-clasificacion-y-prediccion/ (link del ejemplo)
 
-En esta actividad se hizo la visualización y el analisis de un ejemplo sobre las edades de los artistas, igual el tipo de canción
-el tiempo de duración y los tipos de artistas de que genero pertenecen y los tops de las canciones en que lugar ocupan 
-En donde se puede visualizar datos sobre las edades 
-de los artistas,segun se tuvo que hacer el analisis para poder como una limpiza de datos para poder hacer el árbol de 
-decisión en donde observamos que las canciones de los artistas llegaran a un top alto o bajo. Este modelo nos sirve para 
-predecir o tomar una decisión y resolver problemas de una manera facil de entendimiento.
+
+
+
+
+# Codigo-Arbol-de-decision
 
 # Imports necesarios
 import numpy as np

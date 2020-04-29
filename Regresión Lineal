@@ -1,3 +1,12 @@
+#Explicación 
+
+El método de Regresión Lineal es una relación entre dos tipos de variables, las variables independientes o
+explicativas (x1, x2, x3,…) y la variable dependiente o respuesta (y). Lo cual nos permitirá obtener una predicción 
+de la variable dependiente o respuesta en función de los valores adquiridos de la variable independiente.
+
+
+#Codigo 
+
 import numpy as np
 from sklearn import datasets, linear_model
 import matplotlib.pyplot as plt

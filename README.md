@@ -1,8 +1,9 @@
 # Codigo-Arbol-de-decision
 https://www.aprendemachinelearning.com/arbol-de-decision-en-python-clasificacion-y-prediccion/ (link del ejemplo)
 
+#Explicación 
 
-
+El árbol de decisión es una de las técnicas de Data Mining más utilizada, see encuentra dentro de las técnicas de clasificación, sumamente útil. Su utilización se debe a que es muy fácil la interpretación de los resultados obtenidos. Otra ventaja de los árboles de decisión es que las opciones posibles de una determinada condición son excluyentes. Esto permite que luego de analizar la situación se pueda tomar una acción o decisión especifica.
 
 
 # Codigo-Arbol-de-decision

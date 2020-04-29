@@ -1,4 +1,5 @@
 # Codigo-Arbol-de-decision
+https://www.aprendemachinelearning.com/arbol-de-decision-en-python-clasificacion-y-prediccion/ (link del ejemplo)
 
 En esta actividad se hizo la visualización y el analisis de un ejemplo sobre las edades de los artistas, igual el tipo de canción
 el tiempo de duración y los tipos de artistas de que genero pertenecen y los tops de las canciones en que lugar ocupan 
